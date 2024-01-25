@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Pe93bNrXTwGnL/KeWfUFEdpcevyBrN8Bzgr7GjGDGUc=",
+  "Hash": "25nzc9pxWMNq7zVsC56HvDIhXh+XClC/nRbIc6XdwyM=",
   "Source": "Exam",
   "BasePath": "_content/Exam",
   "Mode": "Default",
@@ -2021,6 +2021,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\assets\\images\\06e90340-e069-42b1-9a02-8281bf0931e3Screenshot 2023-12-23 115130.png",
+      "SourceId": "Exam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\",
+      "BasePath": "_content/Exam",
+      "RelativePath": "assets/images/06e90340-e069-42b1-9a02-8281bf0931e3Screenshot 2023-12-23 115130.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\06e90340-e069-42b1-9a02-8281bf0931e3Screenshot 2023-12-23 115130.png"
     },
     {
       "Identity": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\assets\\images\\brand\\br1.png",
