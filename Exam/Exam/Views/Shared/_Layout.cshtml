@@ -91,6 +91,20 @@
 								<li class="scroll"><a href="#new-cars">new cars</a></li>
 								<li class="scroll"><a href="#brand">brands</a></li>
 								<li class="scroll"><a href="#contact">contact</a></li>
+								@if (User.Identity.IsAuthenticated)
+								{
+									<li class="scroll"><a href="#contact">@User.Identity.Name</a></li>
+
+									<li ><a asp-area="Manage" asp-controller="Account" asp-action="Logout">Logout</a></li>
+
+									<li ><a asp-area="Manage" asp-controller="Dashboard" asp-action="Index">Admin Panel</a></li>
+								}
+								else
+								{
+									<li ><a asp-area="Manage" asp-controller="Account" asp-action="Login">Login</a></li>
+									<li ><a asp-area="Manage" asp-controller="Account" asp-action="Register">Register</a></li>
+
+								}
 							</ul><!--/.nav -->
 						</div><!-- /.navbar-collapse -->
 					</div><!--/.container-->

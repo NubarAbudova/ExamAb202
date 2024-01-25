@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "25nzc9pxWMNq7zVsC56HvDIhXh+XClC/nRbIc6XdwyM=",
+  "Hash": "bO4EZYBLHmMoHIC0Z5lnuz3t+wfNw3EyrW61OoogBQc=",
   "Source": "Exam",
   "BasePath": "_content/Exam",
   "Mode": "Default",
@@ -2040,6 +2040,40 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\06e90340-e069-42b1-9a02-8281bf0931e3Screenshot 2023-12-23 115130.png"
     },
     {
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\assets\\images\\1d525904-018e-4e7b-a326-299eeb205e40images.jpg",
+      "SourceId": "Exam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\",
+      "BasePath": "_content/Exam",
+      "RelativePath": "assets/images/1d525904-018e-4e7b-a326-299eeb205e40images.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\1d525904-018e-4e7b-a326-299eeb205e40images.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\assets\\images\\9f30a2d3-b775-4929-9b82-66ed6acbe41bimages.jpg",
+      "SourceId": "Exam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\",
+      "BasePath": "_content/Exam",
+      "RelativePath": "assets/images/9f30a2d3-b775-4929-9b82-66ed6acbe41bimages.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\9f30a2d3-b775-4929-9b82-66ed6acbe41bimages.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\assets\\images\\brand\\br1.png",
       "SourceId": "Exam",
       "SourceType": "Discovered",
@@ -2191,6 +2225,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\clients\\c3.png"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\assets\\images\\d9e5f8bc-9f42-48e7-b3a0-2843f492cfbbindir.png",
+      "SourceId": "Exam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\",
+      "BasePath": "_content/Exam",
+      "RelativePath": "assets/images/d9e5f8bc-9f42-48e7-b3a0-2843f492cfbbindir.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\d9e5f8bc-9f42-48e7-b3a0-2843f492cfbbindir.png"
     },
     {
       "Identity": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\assets\\images\\featured-cars\\fc1.png",

@@ -75,6 +75,7 @@ namespace Exam.Areas.Manage.Controllers
                 Name = client.Name,
                 City = client.City,
                 Description = client.Description,
+                Image=client.Image
             };
             return View(updateClientVM);
         }

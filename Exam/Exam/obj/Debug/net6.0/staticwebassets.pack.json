@@ -473,6 +473,14 @@
       "PackagePath": "staticwebassets\\assets\\images\\06e90340-e069-42b1-9a02-8281bf0931e3Screenshot 2023-12-23 115130.png"
     },
     {
+      "Id": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\assets\\images\\1d525904-018e-4e7b-a326-299eeb205e40images.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\1d525904-018e-4e7b-a326-299eeb205e40images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\assets\\images\\9f30a2d3-b775-4929-9b82-66ed6acbe41bimages.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\9f30a2d3-b775-4929-9b82-66ed6acbe41bimages.jpg"
+    },
+    {
       "Id": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\assets\\images\\brand\\br1.png",
       "PackagePath": "staticwebassets\\assets\\images\\brand\\br1.png"
     },
@@ -507,6 +515,10 @@
     {
       "Id": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\assets\\images\\clients\\c3.png",
       "PackagePath": "staticwebassets\\assets\\images\\clients\\c3.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\assets\\images\\d9e5f8bc-9f42-48e7-b3a0-2843f492cfbbindir.png",
+      "PackagePath": "staticwebassets\\assets\\images\\d9e5f8bc-9f42-48e7-b3a0-2843f492cfbbindir.png"
     },
     {
       "Id": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\assets\\images\\featured-cars\\fc1.png",
