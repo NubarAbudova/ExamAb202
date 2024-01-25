@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bO4EZYBLHmMoHIC0Z5lnuz3t+wfNw3EyrW61OoogBQc=",
+  "Hash": "eyiQRyVHPQKtU4Gh//xA+JNVuB1J60ay/1wsyoJJ1XA=",
   "Source": "Exam",
   "BasePath": "_content/Exam",
   "Mode": "Default",
@@ -2055,6 +2055,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\1d525904-018e-4e7b-a326-299eeb205e40images.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\assets\\images\\7fb35ee3-f03a-487c-89ad-28708263a6dbimages (1).jpg",
+      "SourceId": "Exam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\",
+      "BasePath": "_content/Exam",
+      "RelativePath": "assets/images/7fb35ee3-f03a-487c-89ad-28708263a6dbimages (1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\7fb35ee3-f03a-487c-89ad-28708263a6dbimages (1).jpg"
     },
     {
       "Identity": "C:\\Users\\ca.r214.17\\Desktop\\test\\Exam\\Exam\\wwwroot\\assets\\images\\9f30a2d3-b775-4929-9b82-66ed6acbe41bimages.jpg",

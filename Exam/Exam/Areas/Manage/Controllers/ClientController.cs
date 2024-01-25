@@ -2,17 +2,20 @@
 using Exam.DAL;
 using Exam.Models;
 using Exam.Utilities.Extensions;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace Exam.Areas.Manage.Controllers
 {
     [Area("Manage")]
+    [Authorize("Admin")]
     public class ClientController : Controller
     {
         private readonly AppDbContext _context;
         private readonly IWebHostEnvironment _env;
 
+        
         public ClientController(AppDbContext context, IWebHostEnvironment env)
         {
             _context = context;

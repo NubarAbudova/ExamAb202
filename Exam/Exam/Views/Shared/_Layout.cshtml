@@ -1,4 +1,9 @@
-﻿<!doctype html>
+﻿@using Exam.Services;
+@inject LayoutService service
+@{
+	Dictionary<string, string> settings = await service.GetSettingsAsync();
+}
+<!doctype html>
 <html class="no-js" lang="en">
 
 <head>
@@ -122,16 +127,15 @@
 				<div class="row">
 					<div class="col-md-3 col-sm-6">
 						<div class="single-footer-widget">
-							<div class="footer-logo">
+							<div class="@settings["Logo"]">
 								<a href="index.html">carvilla</a>
 							</div>
 							<p>
-								Ased do eiusm tempor incidi ut labore et dolore magnaian aliqua. Ut enim ad minim
-								veniam.
+									@settings["Address"]
 							</p>
 							<div class="footer-contact">
-								<p>info@themesine.com</p>
-								<p>+1 (885) 2563154554</p>
+									<p>	@settings["Email"]</p>
+									<p>@settings["Phone"]</p>
 							</div>
 						</div>
 					</div>
